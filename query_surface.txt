@@ -1,0 +1,56 @@
+SELECT
+    CASE
+        WHEN media <= 75 THEN 'top_75'
+        WHEN media <= 150 THEN '76_150'
+        ELSE 'others'
+    END AS gruppo,
+    AVG(perc) AS media_percentuale
+FROM (
+    WITH tot_surface AS (
+        SELECT
+            Surface,
+            COUNT(DISTINCT EventId) AS c
+        FROM atp_project.df_23
+        WHERE EventType = '250' OR EventType = '500'
+        GROUP BY Surface
+    ),
+    perc_player AS (
+        SELECT
+            d.PlayerCode,
+            tab_rank.media,
+            d.Surface,
+            COUNT(DISTINCT d.EventId) * 1.0 / t.c AS perc
+        FROM atp_project.df_23 d
+        JOIN (
+            SELECT
+                PlayerCode,
+                AVG(PlayerRank) AS media
+            FROM atp_project.df_23
+            GROUP BY PlayerCode
+        ) tab_rank
+            ON d.PlayerCode = tab_rank.PlayerCode
+        JOIN tot_surface t
+            ON d.Surface = t.Surface
+        WHERE d.EventType = '250' OR d.EventType = '500'
+        GROUP BY d.PlayerCode, tab_rank.media, d.Surface, t.c
+    )
+    SELECT
+        PlayerCode,
+        media,
+        Surface,
+        perc
+    FROM (
+        SELECT
+            PlayerCode,
+            media,
+            Surface,
+            perc,
+            ROW_NUMBER() OVER (
+                PARTITION BY PlayerCode
+                ORDER BY perc DESC
+            ) AS rn
+        FROM perc_player
+    ) x
+    WHERE rn = 1
+) tabella
+GROUP BY gruppo;
