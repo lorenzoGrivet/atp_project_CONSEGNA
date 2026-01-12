@@ -1,0 +1,56 @@
+WITH home_tournaments AS (
+    SELECT
+        allc.`alpha-3` AS nationality_alpha3,
+        COUNT(DISTINCT d.EventId) AS tot_home_events
+    FROM atp_project.df_25 d
+    JOIN atp_project.`all` allc
+        ON d.EventCountry = allc.name
+    GROUP BY allc.`alpha-3`
+),
+played_home AS (
+    SELECT
+        d.PlayerCode,
+        allc.`alpha-3` AS nationality_alpha3,
+        COUNT(DISTINCT d.EventId) AS played_home_events
+    FROM atp_project.df_25 d
+    JOIN atp_project.atp_senza_ripetizioni asr
+        ON d.PlayerCode = asr.`Player Id`
+    JOIN atp_project.`all` allc
+        ON d.EventCountry = allc.name
+       AND asr.Nationality = allc.`alpha-3`
+    GROUP BY d.PlayerCode, allc.`alpha-3`
+),
+player_rank AS (
+    SELECT
+        PlayerCode,
+        AVG(PlayerRank) AS avg_rank
+    FROM atp_project.df_25
+    GROUP BY PlayerCode
+),
+perc_home AS (
+    SELECT
+        p.PlayerCode,
+        p.nationality_alpha3,
+        p.played_home_events * 1.0 / NULLIF(h.tot_home_events,0) AS perc_home_played,
+        h.tot_home_events,
+        r.avg_rank
+    FROM played_home p
+    JOIN home_tournaments h
+        ON p.nationality_alpha3 = h.nationality_alpha3
+    JOIN player_rank r
+        ON p.PlayerCode = r.PlayerCode
+)
+SELECT
+    CASE
+        WHEN tot_home_events >= 5 THEN 'at_least_5_tournaments'
+        ELSE 'less_than_5_tournaments'
+    END AS country_group,
+    CASE
+        WHEN avg_rank <= 150 THEN 'top_150'
+        ELSE 'others'
+    END AS rank_group,
+    AVG(perc_home_played) AS avg_perc_home_played,
+    COUNT(*) AS num_players
+FROM perc_home
+GROUP BY country_group, rank_group
+ORDER BY country_group, rank_group;
