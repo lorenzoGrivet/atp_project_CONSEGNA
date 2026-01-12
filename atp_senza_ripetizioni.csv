@@ -1,0 +1,972 @@
+Player Id,Player Name,Nationality
+
+mv14,A. Molcan,svk
+
+mw02,C. Moutet,fra
+
+mc65,G. Monfils,fra
+
+gb88,D. Goffin,bel
+
+kb05,F. Krajinovic,srb
+
+f510,F. Fognini,ita
+
+hh06,M. Huesler,sui
+
+cg04,P. Cachin,arg
+
+mu94,J. Munar,esp
+
+kc56,A. Karatsev,rus
+
+bm95,B. Bonzi,fra
+
+gc88,M. Giron,usa
+
+mo44,P. Martinez,esp
+
+mk66,M. McDonald,usa
+
+hb64,Q. Halys,fra
+
+lb66,C. Lestienne,fra
+
+w09g,J. Wolf,usa
+
+ge33,D. Galan,col
+
+g628,R. Gasquet,fra
+
+y268,M. Ymer,swe
+
+db63,L. Djere,srb
+
+mj08,T. Monteiro,bra
+
+z419,B. Zapata Miralles,esp
+
+i305,I. Ivashka,blr
+
+cf59,R. Carballes Baena,esp
+
+ce77,F. Coria,arg
+
+o449,O. Otte,ger
+
+mq75,K. Majchrzak,pol
+
+o483,C. O'Connell,aus
+
+ea24,T. Etcheverry,arg
+
+l987,D. Lajovic,srb
+
+l0bv,J. Lehecka,cze
+
+sh90,J. Sousa,por
+
+kf17,S. Kwon,kor
+
+tc61,J. Thompson,aus
+
+gd64,C. Garin,chi
+
+hh26,U. Humbert,fra
+
+f724,M. Fucsovics,hun
+
+sx50,R. Safiullin,rus
+
+bf23,F. Bagnis,arg
+
+bk24,G. Barrere,fra
+
+bg23,N. Basilashvili,geo
+
+da81,T. Daniel,jpn
+
+kd46,T. Kokkinakis,aus
+
+ae14,D. Altmaier,ger
+
+gj37,T. Griekspoor,ned
+
+s0s1,B. Shelton,usa
+
+m0fh,T. Machac,cze
+
+pd07,V. Pospisil,can
+
+z371,Z. Zhang,chn
+
+te30,A. Tabilo,chi
+
+cf01,M. Cecchinato,ita
+
+tb69,D. Thiem,aut
+
+a829,R. Albot,mda
+
+ga36,E. Gomez,ecu
+
+v836,J. Varillas,per
+
+kb09,D. Kudla,usa
+
+kb95,J. Kubler,aus
+
+g09o,H. Gaston,fra
+
+v708,J. Vesely,cze
+
+j386,S. Johnson,usa
+
+v942,T. van Rijthoven,ned
+
+bt72,N. Borges,por
+
+mp01,M. Mmoh,usa
+
+gb93,N. Gombos,svk
+
+t0ap,C. Tseng,tpe
+
+wb32,Y. Wu,chn
+
+k09f,P. Kotov,rus
+
+s0la,D. Stricker,sui
+
+p0ct,F. Passaro,ita
+
+p09z,A. Popyrin,aus
+
+a596,P. Andujar,esp
+
+r09x,J. Rodionov,aut
+
+e865,C. Eubanks,usa
+
+v306,F. Verdasco,esp
+
+d874,F. Delbonis,arg
+
+u182,C. Ugo Carabelli,arg
+
+y218,E. Ymer,swe
+
+h997,Y. Hanfmann,ger
+
+bu13,Z. Bergs,bel
+
+v832,A. Vukic,aus
+
+sm25,J. Sock,usa
+
+da31,H. Dellien,bol
+
+so20,J. Sels,ned
+
+a0fc,M. Arnaldi,ita
+
+n0bg,L. Nardi,ita
+
+ki63,L. Klein,svk
+
+kc04,J. Kovalik,svk
+
+aa27,F. Agamenone,ita
+
+v0dz,L. Van Assche,fra
+
+ki82,V. Kopriva,cze
+
+gf95,H. Grenier,fra
+
+s0gr,T. Skatov,kaz
+
+sd32,G. Simon,fra
+
+gh92,B. Gojo,cro
+
+wb08,Y. Watanuki,jpn
+
+gh33,M. Guinard,fra
+
+mh30,J. Millman,aus
+
+w367,S. Wawrinka,sui
+
+m0jz,F. Misolic,aut
+
+sl28,J. Struff,ger
+
+c0c8,J. Cerundolo,arg
+
+j551,N. Jarry,chi
+
+b0gg,M. Bellucci,ita
+
+s0h2,A. Shevchenko,kaz
+
+d994,J. Duckworth,aus
+
+bo10,G. Brouwer,ned
+
+r0fs,L. Riedi,sui
+
+k0az,A. Kovacevic,usa
+
+mn13,M. Marterer,ger
+
+mp20,A. Muller,fra
+
+z0a1,G. Zeppieri,ita
+
+p09o,Z. Piros,hun
+
+bi23,L. Broady,gbr
+
+h0bh,R. Hijikata,aus
+
+te16,C. Taberner,esp
+
+mw75,F. Meligeni Alves,bra
+
+ph78,R. Peniston,gbr
+
+be90,R. Berankis,ltu
+
+rc04,A. Ritschard,sui
+
+bu54,G. Blancaneaux,fra
+
+c0e9,F. Cobolli,ita
+
+l949,H. Laaksonen,sui
+
+m0ci,F. Marozsan,hun
+
+cg94,E. Couacaud,fra
+
+v0am,O. Virtanen,fin
+
+mj98,F. Mena,arg
+
+fa43,J. Ficovich,arg
+
+n0am,E. Nava,usa
+
+pd31,B. Paire,fra
+
+db59,D. Novak,aut
+
+ph64,A. Pellegrino,ita
+
+o376,R. Olivo,arg
+
+bp41,A. Bellier,sui
+
+w857,T. Wu,tpe
+
+k0dp,O. Krutykh,ukr
+
+d923,D. Dzumhur,bih
+
+bi47,R. Bonadio,ita
+
+k926,M. Kukushkin,kaz
+
+a0ab,A. Andreev,bul
+
+rh59,S. Rodriguez Taverna,arg
+
+d0cg,F. Diaz Acosta,arg
+
+s0re,J. Shang,chn
+
+o513,S. Ofner,aut
+
+bv24,R. Brancaccio,ita
+
+kc29,N. Kicker,arg
+
+kc33,D. Kuzmanov,bul
+
+u120,K. Uchida,jpn
+
+ke64,S. Kozlov,usa
+
+ke73,D. Koepfer,ger
+
+m0if,F. Maestrelli,ita
+
+sn54,F. Ferreira Silva,por
+
+h0a4,N. Hardt,dom
+
+sk94,C. Stebe,ger
+
+lc12,L. Lokoli,fra
+
+e768,A. Escoffier,fra
+
+d0fj,L. Darderi,ita
+
+gk06,A. Galarneau,can
+
+n09u,R. Noguchi,jpn
+
+fc26,E. Furness,fra
+
+tc01,L. Tu,aus
+
+p0df,M. Pucinelli De Almeida,bra
+
+ml57,G. Mager,ita
+
+va08,A. Vavassori,ita
+
+kc12,M. Krueger,usa
+
+mw18,N. Moreno De Alboran,usa
+
+r685,L. Rosol,cze
+
+h09p,B. Holt,usa
+
+cg33,K. Coppejans,bel
+
+j0a4,P. Jubb,gbr
+
+ph71,M. Purcell,aus
+
+h09f,Y. Hsu,tpe
+
+s0gd,D. Svrcina,cze
+
+ta29,M. Trungelliti,arg
+
+o660,G. Olivieri,arg
+
+t0a1,T. Tirante,arg
+
+e873,E. Escobedo,mex
+
+d0f6,G. Diallo,can
+
+j553,O. Jasika,aus
+
+i0a7,N. Ionel,rou
+
+bs86,T. Barrios Vera,chi
+
+mm66,N. Milojevic,srb
+
+e698,G. Elias,por
+
+z246,M. Zekic,srb
+
+sp80,N. Serdarusic,cro
+
+g967,P. Gojowczyk,ger
+
+ch05,A. Celikbilek,tur
+
+hg86,L. Harris,rsa
+
+b0fv,R. Burruchaga,arg
+
+ml73,S. Mansouri,tun
+
+ci14,J. Clarke,gbr
+
+f840,N. Fatic,bih
+
+ge28,I. Gakhov,rus
+
+n0bs,M. Navone,arg
+
+ld22,N. Ly,vie
+
+z09d,K. Zuk,pol
+
+cc66,A. Collarini,arg
+
+kh56,Z. Kolar,cze
+
+ch12,J. Choinski,gbr
+
+s0ia,D. Sweeny,aus
+
+g0gd,M. Gigante,ita
+
+f0f1,A. Fils,fra
+
+hc21,S. Hong,kor
+
+t0dm,J. Torres,arg
+
+gg65,M. Geerts,bel
+
+m0jf,H. Medjedovic,srb
+
+m0g4,H. Mayot,fra
+
+cg07,H. Casanova,arg
+
+h756,R. Haase,ned
+
+m0aw,N. Mejia,col
+
+m0e1,D. Michalski,pol
+
+lb07,G. Lama,chi
+
+g983,A. Giannessi,ita
+
+f0bt,J. Forejtek,cze
+
+sy67,S. Shimabukuro,jpn
+
+sl08,T. Sandgren,usa
+
+g0ao,A. Gray,gbr
+
+s0gz,N. Sanchez Izquierdo,esp
+
+rb60,O. Roca Batalla,esp
+
+c882,P. Cuevas,uru
+
+mi01,H. Moriya,jpn
+
+c0df,F. Comesana,arg
+
+d916,S. Diez,can
+
+df88,A. Dougaz,tun
+
+n663,M. Neuchrist,aut
+
+va70,M. Valkusz,hun
+
+lb84,J. Londero,arg
+
+y09v,Y. Bu,chn
+
+gc89,E. Gerasimov,blr
+
+s0ar,T. Stodder,ger
+
+c0jp,R. Collignon,bel
+
+ga79,L. Giustino,ita
+
+g09c,M. Gengel,cze
+
+gf23,L. Gerch,ger
+
+a09u,N. Alvarez Varona,esp
+
+a09t,D. Added,fra
+
+d0dw,T. Droguet,fra
+
+d985,J. Domingues,por
+
+d0c1,J. de Jong,ned
+
+mn20,D. Masur,ger
+
+va25,V. Vacherot,mon
+
+z09k,E. Zhu,usa
+
+y171,D. Yevseyev,kaz
+
+m0ea,P. Martin Tiffon,esp
+
+ce25,S. Caruso,ita
+
+bv16,U. Blanchet,fra
+
+n0cs,L. Neumayer,aut
+
+li39,A. Lazarov,bul
+
+bv25,J. Barranco Cosano,esp
+
+a0gc,T. Atmane,fra
+
+sg56,D. Dutra da Silva,bra
+
+da86,J. De Loore,bel
+
+j09x,F. Jianu,rou
+
+mj71,M. Moraing,ger
+
+v821,G. Villanueva,arg
+
+s0k7,Z. Svajda,usa
+
+rc91,A. Rinderknech,fra
+
+mc10,A. Murray,gbr
+
+c0h0,A. Cazaux,fra
+
+h996,P. Herbert,fra
+
+hg94,B. Hassan,lbn
+
+n0ae,B. Nakashima,usa
+
+su87,L. Sonego,ita
+
+c0bc,M. Cressy,usa
+
+me82,A. Mannarino,fra
+
+o0a2,G. Onclin,bel
+
+g858,E. Gulbis,lat
+
+u134,Y. Uchiyama,jpn
+
+bk92,A. Bublik,kaz
+
+rh24,E. Ruusuvuori,fin
+
+r772,A. Ramos-Vinolas,esp
+
+pg94,M. Polmans,aus
+
+v717,A. Vatutin,rus
+
+wb25,L. Wessels,ger
+
+m0ht,A. Moro Canas,esp
+
+m0hu,S. Mochizuki,jpn
+
+o522,R. Opelka,usa
+
+i306,C. Ilkel,tur
+
+mw54,D. Madaras,swe
+
+s0nv,A. Shelbayh,jor
+
+r0eb,V. Royer,fra
+
+d0co,J. Draper,gbr
+
+c0ak,O. Crawford,gbr
+
+e811,E. Ejupovic,ger
+
+s0n0,T. Schoolkate,aus
+
+d864,E. Donskoy,rus
+
+b0cd,J. Brooksby,usa
+
+sx91,T. Seyboth Wild,bra
+
+s0aq,Y. Shimizu,jpn
+
+m0oq,J. McCabe,aus
+
+r0a7,J. Reis Da Silva,bra
+
+l0cx,P. Llamas Ruiz,esp
+
+gb53,F. Gaio,ita
+
+m0qi,A. Michelsen,usa
+
+ss25,V. Sachko,ukr
+
+j620,M. Janvier,fra
+
+dc48,M. Dellien,bol
+
+h0cx,M. Houkes,ned
+
+i186,J. Isner,usa
+
+m0gz,G. Mpetshi Perricard,fra
+
+r0fp,D. Rincon,esp
+
+sm37,D. Schwartzman,arg
+
+l0gh,M. Lajal,est
+
+n897,S. Nagal,ind
+
+fc49,G. Fonio,ita
+
+ta12,S. Travaglia,ita
+
+a887,G. Andreozzi,arg
+
+dc76,V. Durasovic,nor
+
+m0ni,J. Mensik,cze
+
+w09e,A. Walton,aus
+
+li03,E. Lavagno,ita
+
+j380,J. Jung,tpe
+
+ea13,M. Echargui,tun
+
+p0hw,D. Prizmic,cro
+
+lf29,A. Lopez San Martin,esp
+
+c977,M. Cilic,cro
+
+n409,R. Nadal,esp
+
+z09z,B. Zhukayev,kaz
+
+m0ac,R. Molleker,ger
+
+o482,G. Oliveira,ven
+
+p0e9,D. Palan,cze
+
+k0e6,A. Kachmazov,rus
+
+mk26,J. Marie,fra
+
+k0a3,P. Kypson,usa
+
+k0hc,M. Kasnikowski,pol
+
+b0bi,S. Baez,arg
+
+pc11,G. Pella,arg
+
+s0ak,H. Squire,ger
+
+t09x,C. Tabur,fra
+
+a0cj,D. Ajdukovic,cro
+
+me89,I. Marchenko,ukr
+
+bk19,M. Bourgue,fra
+
+n679,S. Napolitano,ita
+
+ke17,N. Kyrgios,aus
+
+wb19,A. Weis,ita
+
+j0az,K. Jacquet,fra
+
+cd85,P. Carreno Busta,esp
+
+ta46,B. Tomic,aus
+
+hb48,C. Hemery,fra
+
+v812,B. van de Zandschulp,ned
+
+bk40,M. Berrettini,ita
+
+pj74,L. Poullain,fra
+
+mw76,M. Martineau,fra
+
+h0du,G. Heide,bra
+
+bi81,A. Bolt,aus
+
+b0ej,T. Boyer,usa
+
+s0ti,P. Sekulic,aus
+
+sm09,L. Saville,aus
+
+ki95,M. Kecmanovic,srb
+
+d0dt,M. Damm,usa
+
+hd68,B. Harris,gbr
+
+f0dm,A. Fery,gbr
+
+su55,D. Shapovalov,can
+
+r0go,H. Rocha,por
+
+bd06,R. Bautista Agut,esp
+
+w0bh,C. Wong,hkg
+
+m0nb,A. Mayo,usa
+
+dg80,E. Dalla Valle,ita
+
+d0dp,L. Draxl,can
+
+v0b2,M. Vrbensky,cze
+
+h09n,A. Holmgren,den
+
+m0bn,M. Moeller,ger
+
+n732,Y. Nishioka,jpn
+
+pf39,L. Pouille,fra
+
+lc11,T. Lamasine,fra
+
+ca99,M. Copil,rou
+
+kd35,T. Kwiatkowski,usa
+
+q02l,E. Quinn,usa
+
+r975,M. Raonic,can
+
+g0dh,A. Guillen Meza,ecu
+
+pg20,D. Popko,kaz
+
+v0di,S. Vincent Ruggeri,ita
+
+f0f2,J. Faria,por
+
+hf80,H. Habib,lbn
+
+c0bh,C. Chidekh,fra
+
+b0pg,A. Blockx,bel
+
+f0fv,J. Fonseca,bra
+
+sl94,P. Sakamoto,bra
+
+e687,D. Evans,gbr
+
+j476,D. Jorda Sanchis,esp
+
+ki48,E. Kirkin,tur
+
+cg80,B. Coric,cro
+
+b0gr,G. Bueno,per
+
+g0fw,V. Gaubas,ltu
+
+f664,S. Fanselow,ger
+
+v0dp,A. Vallejo,par
+
+bv21,C. Broom,gbr
+
+m0k4,E. Moller,den
+
+t0bw,J. Trotter,jpn
+
+k0ep,J. Kym,sui
+
+n552,K. Nishikori,jpn
+
+gj16,F. Gomez,arg
+
+f0by,J. Fearnley,gbr
+
+be69,Y. Bai,chn
+
+bu70,R. Bertola,sui
+
+b0jj,R. Bertrand,fra
+
+t0ha,L. Tien,usa
+
+b0id,I. Buse,per
+
+l0il,M. Landaluce,esp
+
+sr81,K. Sultanov,uzb
+
+d0hd,G. Debru,fra
+
+a0ba,F. Arnaboldi,ita
+
+d0l3,M. Dodig,cro
+
+b0nn,N. Basavareddy,usa
+
+c0b2,C. Cretu,rou
+
+dh50,A. Davidovich Fokina,esp
+
+ag08,A. Andrade,ecu
+
+n771,C. Norrie,gbr
+
+u176,V. Ursu,ukr
+
+d0h9,G. Den Ouden,ned
+
+n0d9,J. Nicod,cze
+
+s0mn,M. Sharipov,rus
+
+s0ja,E. Spizzirri,usa
+
+d0ar,M. Alves,bra
+
+sm88,K. Sell,bra
+
+b0mm,E. Butvilas,ltu
+
+rb56,R. Ramanathan,ind
+
+p0gq,M. Poljicak,cro
+
+p0iy,J. Prado Angelo,bol
+
+n0bk,H. Naw,syr
+
+s0ek,M. Soto,chi
+
+sx90,F. Sun,chn
+
+df92,C. Denolly,fra
+
+r0ed,M. Rehberg,ger
+
+e0ac,M. Erhard,fra
+
+z0ab,A. Zakharov,rus
+
+m0n7,D. Merida,esp
+
+k966,M. Klizan,svk
+
+r0e0,C. Rodesch,lux
+
+c0aj,J. Cui,chn
+
+g0gw,S. Gueymard Wayenburg,fra
+
+c0ht,M. Cassone,usa
+
+s0cg,C. Sanchez Jover,esp
+
+s0ze,C. Smith,usa
+
+ea27,B. Ellis,aus
+
+b0er,A. Bouquier,fra
+
+o0be,O. Ovcharenko,ukr
+
+g0ix,A. Gea,fra
+
+m0on,J. Monday,gbr
+
+s0o6,I. Simakin,rus
+
+b0u4,N. Budkov Kjaer,nor
+
+p0j1,R. Pacheco Mendez,mex
+
+z09f,P. Zahraj,ger
+
+n731,C. Negritu,ger
+
+s0uv,R. Sakamoto,jpn
+
+p0ay,L. Pavlovic,fra
+
+m0n1,L. Mikrut,cro
+
+c0hb,E. Coulibaly,civ
+
+p0ea,S. Purtseladze,geo
+
+e0dd,J. Engel,ger
+
+c0nb,F. Cina,ita
+
+t0fi,M. Topo,ger
+
+z0cq,Y. Zhou,chn
+
+l0cf,G. Loffhagen,gbr
+
+p0ht,J. Pinnington Jones,gbr
+
+m0oh,L. Midon,arg
+
+b0gy,A. Barrena,arg
+
+p0k4,T. Pereira,por
+
+b0lw,M. Brunold,sui
+
+m0np,A. Martin,usa
+
+s0bt,A. Soriano Barrera,col
+
+p0d0,J. Paul,sui
+
+b0ou,H. Barton,cze
+
+hb71,H. Hurkacz,pol
+
+k0ah,S. Korda,usa
+
+s0wt,J. Schwaerzler,aut
+
+g0ib,T. Gentzsch,ger
+
+b0qc,G. Bailly,bel
+
+s0kt,S. Sakellaridis,gre
+
+j0b5,G. Johns,usa
+
+z0bz,M. Zheng,usa
+
+p0gn,T. Paris,fra
+
+rg42,A. Rybakov,usa
+
+g0by,D. Glinka,est
+
+b0lq,P. Bar Biryukov,rus
+
+z0ak,T. Zink,usa
+
+j0dz,R. Jodar,esp
+
+b0fi,P. Boscardin Dias,bra
+
+rh62,M. Rosenkranz,ger
+
+a0f3,F. Andaloro,ita
+
+b0no,D. Blanch,usa
+
+bu10,J. Berrettini,ita
+
+s0tm,T. Samuel,gbr
+
+b0bu,F. Bax,fra
+
+n0db,A. Nedic,bih
+
