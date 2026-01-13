@@ -1,0 +1,28 @@
+WITH avg_rank_per_player AS (
+  SELECT
+    playercode,
+    AVG(playerrank) AS media
+  FROM df_24
+  GROUP BY PlayerCode
+),
+tornei_con_punti AS (
+  SELECT
+    df_25.playercode,
+    CASE
+      WHEN r.media <= 75 THEN 'top_75'
+      WHEN r.media <= 150 THEN '76_150'
+      ELSE 'others'
+    END AS gruppo,
+    IF(df_24.pointsgained > 0, 1, 0) AS c
+  FROM df_25
+  JOIN avg_rank_per_player r
+    ON r.playercode = df_25.playercode
+  LEFT OUTER JOIN df_24
+    ON df_24.playercode = df_25.playercode
+   AND DATE_SUB(df_25.date_tournament, INTERVAL 53 WEEK) = df_24.date_tournament
+)
+SELECT
+  gruppo,
+  sum(c)/count(c) as perc_tornei_con_punti_da_difendere
+FROM tornei_con_punti
+GROUP BY gruppo;
