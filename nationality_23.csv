@@ -1,0 +1,5 @@
+"country_group","rank_group","avg_perc_home_played","num_players"
+at_least_5_tournaments,top_150,0.194356785,56
+at_least_5_tournaments,others,0.296787388,134
+less_than_5_tournaments,top_150,0.553030909,11
+less_than_5_tournaments,others,0.593750000,8
