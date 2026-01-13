@@ -1,0 +1,12 @@
+with avg_prize_per_type as (
+	select eventtype, avg(totprizemoney) as avg_prize, count(distinct eventid) as tot_tornei
+	from (select distinct eventid, eventtype, totprizemoney
+	from df_23
+	where eventtype = 250 or eventtype = 500) as t
+	group by eventtype
+	)
+select d.playercode, d.eventtype, sum(if (d.totprizemoney > avg_prize, 1, 0))/tot_tornei
+from df_23 d, avg_prize_per_type a
+where d.eventtype = a.eventtype
+group by d.playercode, d.eventtype, tot_tornei
+
