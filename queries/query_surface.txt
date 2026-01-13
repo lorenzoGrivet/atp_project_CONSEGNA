@@ -10,7 +10,7 @@ FROM (
         SELECT
             Surface,
             COUNT(DISTINCT EventId) AS c
-        FROM atp_project.df_23
+        FROM atp_def.df_25
         WHERE EventType = '250' OR EventType = '500'
         GROUP BY Surface
     ),
@@ -20,12 +20,12 @@ FROM (
             tab_rank.media,
             d.Surface,
             COUNT(DISTINCT d.EventId) * 1.0 / t.c AS perc
-        FROM atp_project.df_23 d
+        FROM atp_def.df_25 d
         JOIN (
             SELECT
                 PlayerCode,
                 AVG(PlayerRank) AS media
-            FROM atp_project.df_23
+            FROM atp_def.df_25
             GROUP BY PlayerCode
         ) tab_rank
             ON d.PlayerCode = tab_rank.PlayerCode

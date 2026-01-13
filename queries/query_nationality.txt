@@ -2,8 +2,8 @@ WITH home_tournaments AS (
     SELECT
         allc.`alpha-3` AS nationality_alpha3,
         COUNT(DISTINCT d.EventId) AS tot_home_events
-    FROM atp_project.df_25 d
-    JOIN atp_project.`all` allc
+    FROM atp_def.df_25 d
+    JOIN atp_def.`all` allc
         ON d.EventCountry = allc.name
     GROUP BY allc.`alpha-3`
 ),
@@ -12,10 +12,10 @@ played_home AS (
         d.PlayerCode,
         allc.`alpha-3` AS nationality_alpha3,
         COUNT(DISTINCT d.EventId) AS played_home_events
-    FROM atp_project.df_25 d
-    JOIN atp_project.atp_senza_ripetizioni asr
+    FROM atp_def.df_25 d
+    JOIN atp_def.atp_senza_ripetizioni_25 asr
         ON d.PlayerCode = asr.`Player Id`
-    JOIN atp_project.`all` allc
+    JOIN atp_def.`all` allc
         ON d.EventCountry = allc.name
        AND asr.Nationality = allc.`alpha-3`
     GROUP BY d.PlayerCode, allc.`alpha-3`
@@ -24,7 +24,7 @@ player_rank AS (
     SELECT
         PlayerCode,
         AVG(PlayerRank) AS avg_rank
-    FROM atp_project.df_25
+    FROM atp_def.df_25
     GROUP BY PlayerCode
 ),
 perc_home AS (
