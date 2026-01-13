@@ -1,47 +1,47 @@
-"eventid","eventname","eventcountry","surface","totprizemoney"
-747,Beijing,China,Hard,4016050
-7581,Chengdu,China,Hard,1190210
-336,Hong Kong,Hong Kong,Hard,680140
-6242,Winston-Salem,"NC, U.S.A.",Hard,798335
-319,Kitzbuhel,Austria,Clay,596035
-8994,Mallorca,Spain,Grass,596035
-311,London / Queen's Club,Great Britain,Grass,2522220
-440,'s-Hertogenbosch,Netherlands,Grass,706850
-414,Hamburg,Germany,Clay,2158560
-308,Munich,Germany,Clay,2500000
-4462,Bucharest,Romania,Clay,596035
-495,Dubai,U.A.E.,Hard,3237670
-451,Doha,Qatar,Hard,2760000
-407,Rotterdam,Netherlands,Hard,2401550
-8998,Adelaide,Australia,Hard,680140
-418,Washington,"DC, U.S.A.",Hard,2396115
-321,Stuttgart,Germany,Grass,751630
-301,Auckland,New Zealand,Hard,680140
-339,Brisbane,Australia,Hard,680140
-328,Basel,Switzerland,Hard,2523045
-7485,Brussels,Belgium,Hard,706850
-4713,Hangzhou,China,Hard,1019185
-314,Gstaad,Switzerland,Clay,596035
-807,Acapulco,Mexico,Hard,2585410
-375,Montpellier,France,Hard,596035
-341,Metz,France,Hard,596035
-429,Stockholm,Sweden,Hard,706850
-741,Eastbourne,Great Britain,Grass,756875
-500,Halle,Germany,Grass,2522220
-360,Marrakech,Morocco,Clay,596035
-496,Marseille,France,Hard,740730
-5100,Athens,Greece,Hard,766715
-322,Geneva,Switzerland,Clay,596035
-499,Delray Beach,"FL, U.S.A.",Hard,680140
-424,Dallas,"TX, U.S.A.",Hard,2760000
-6932,Rio de Janeiro,Brazil,Clay,2396115
-506,Buenos Aires,Argentina,Clay,658390
-9410,Almaty,Kazakhstan,Hard,1055255
-329,Tokyo,Japan,Hard,2226470
-7480,Los Cabos,Mexico,Hard,889890
-439,Umag,Croatia,Clay,596035
-425,Barcelona,Spain,Clay,2889200
-337,Vienna,Austria,Hard,2736875
-8996,Santiago,Chile,Clay,680140
-717,Houston,"TX, U.S.A.",Clay,680140
-316,Bastad,Sweden,Clay,596035
+"year","EventId","date_tournament","EventName","EventType","EventCountry","Surface","TotPrizeMoney"
+2025,747,"2025-09-22",Beijing,"500",China,Hard,4016050
+2025,7581,"2025-09-15",Chengdu,"250",China,Hard,1190210
+2025,336,"2024-12-30",Hong Kong,"250",Hong Kong,Hard,680140
+2025,6242,"2025-08-18",Winston-Salem,"250","NC, U.S.A.",Hard,798335
+2025,319,"2025-07-21",Kitzbuhel,"250",Austria,Clay,596035
+2025,8994,"2025-06-23",Mallorca,"250",Spain,Grass,596035
+2025,311,"2025-06-16",London / Queen's Club,"500",Great Britain,Grass,2522220
+2025,440,"2025-06-09",'s-Hertogenbosch,"250",Netherlands,Grass,706850
+2025,414,"2025-05-19",Hamburg,"500",Germany,Clay,2158560
+2025,308,"2025-04-14",Munich,"500",Germany,Clay,2500000
+2025,4462,"2025-03-31",Bucharest,"250",Romania,Clay,596035
+2025,495,"2025-02-24",Dubai,"500",U.A.E.,Hard,3237670
+2025,451,"2025-02-17",Doha,"500",Qatar,Hard,2760000
+2025,407,"2025-02-03",Rotterdam,"500",Netherlands,Hard,2401550
+2025,8998,"2025-01-06",Adelaide,"250",Australia,Hard,680140
+2025,418,"2025-07-21",Washington,"500","DC, U.S.A.",Hard,2396115
+2025,321,"2025-06-09",Stuttgart,"250",Germany,Grass,751630
+2025,301,"2025-01-06",Auckland,"250",New Zealand,Hard,680140
+2025,339,"2024-12-30",Brisbane,"250",Australia,Hard,680140
+2025,328,"2025-10-20",Basel,"500",Switzerland,Hard,2523045
+2025,7485,"2025-10-13",Brussels,"250",Belgium,Hard,706850
+2025,4713,"2025-09-15",Hangzhou,"250",China,Hard,1019185
+2025,314,"2025-07-14",Gstaad,"250",Switzerland,Clay,596035
+2025,807,"2025-02-24",Acapulco,"500",Mexico,Hard,2585410
+2025,375,"2025-01-27",Montpellier,"250",France,Hard,596035
+2025,341,"2025-11-03",Metz,"250",France,Hard,596035
+2025,429,"2025-10-13",Stockholm,"250",Sweden,Hard,706850
+2025,741,"2025-06-23",Eastbourne,"250",Great Britain,Grass,756875
+2025,500,"2025-06-16",Halle,"500",Germany,Grass,2522220
+2025,360,"2025-03-31",Marrakech,"250",Morocco,Clay,596035
+2025,496,"2025-02-10",Marseille,"250",France,Hard,740730
+2025,5100,"2025-11-03",Athens,"250",Greece,Hard,766715
+2025,322,"2025-05-19",Geneva,"250",Switzerland,Clay,596035
+2025,499,"2025-02-10",Delray Beach,"250","FL, U.S.A.",Hard,680140
+2025,424,"2025-02-03",Dallas,"500","TX, U.S.A.",Hard,2760000
+2025,6932,"2025-02-17",Rio de Janeiro,"500",Brazil,Clay,2396115
+2025,506,"2025-02-10",Buenos Aires,"250",Argentina,Clay,658390
+2025,9410,"2025-10-13",Almaty,"250",Kazakhstan,Hard,1055255
+2025,329,"2025-09-22",Tokyo,"500",Japan,Hard,2226470
+2025,7480,"2025-07-14",Los Cabos,"250",Mexico,Hard,889890
+2025,439,"2025-07-21",Umag,"250",Croatia,Clay,596035
+2025,425,"2025-04-14",Barcelona,"500",Spain,Clay,2889200
+2025,337,"2025-10-20",Vienna,"500",Austria,Hard,2736875
+2025,8996,"2025-02-24",Santiago,"250",Chile,Clay,680140
+2025,717,"2025-03-31",Houston,"250","TX, U.S.A.",Clay,680140
+2025,316,"2025-07-14",Bastad,"250",Sweden,Clay,596035
