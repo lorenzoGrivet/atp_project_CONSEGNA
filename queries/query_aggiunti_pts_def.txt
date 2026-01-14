@@ -1,0 +1,16 @@
+SELECT
+  df_23.playercode,
+  df_23.EventId,
+  df_23.EventType,
+  df_23.Surface,
+  df_23.TotPrizeMoney,
+  df_23.Same_Nationality,
+  df_23.iscritto,
+  CASE
+    WHEN df_22.pointsgained > 0 THEN 1
+    ELSE 0
+  END AS ha_pts_def
+FROM df_23_pts df_23
+LEFT OUTER JOIN df_22
+  ON df_22.playercode = df_23.playercode
+ AND DATE_SUB(df_23.date_tournament, INTERVAL 53 WEEK) = df_22.date_tournament;
