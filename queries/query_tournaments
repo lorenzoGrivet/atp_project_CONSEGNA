@@ -1,0 +1,3 @@
+select distinct year,EventId,date_tournament,EventName,EventType,EventCountry,Surface,TotPrizeMoney
+from df_24
+where eventtype = 250 or eventtype = 500

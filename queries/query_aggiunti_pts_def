@@ -1,0 +1,27 @@
+with t as (select 
+  df_25_pts.playercode,
+  df_25_pts.EventId,
+  df_25_pts.iscritto,
+  df_25_pts.`Year`,
+  df_25_pts.date_tournament,
+  df_25_pts.EventName,
+  df_25_pts.EventType,
+  df_25_pts.EventCountry,
+  df_25_pts.Surface,
+  df_25_pts.TotPrizeMoney,
+  df_25_pts.Same_Nationality,
+  CASE
+    WHEN df_24.PointsGained > 0 THEN 1
+    ELSE 0
+  END AS ha_pts_def
+FROM ATP_CONSEGNA.df_25 as df_25_pts
+LEFT OUTER JOIN ATP_CONSEGNA.df_24
+  ON df_24.playercode = df_25_pts.playercode
+ AND DATE_SUB(df_25_pts.date_tournament, INTERVAL 53 WEEK) = df_24.date_tournament)
+select PlayerCode, EventId, iscritto, `Year`, date_tournament, EventName, EventType, EventCountry, Surface, TotPrizeMoney, Same_Nationality, IFNULL(`Rank`, 601) as `Rank`, max(ha_pts_def) as ha_pts_def
+from t
+left outer join ATP_CONSEGNA.atp_ranking_settimanale_25 ars
+on ars.`Date` = t.date_tournament and ars.playerid = t.PlayerCode
+group by PlayerCode, EventId, iscritto, `Year`, date_tournament, EventName, EventType, EventCountry, Surface, TotPrizeMoney, Same_Nationality, `Rank`
+
+
