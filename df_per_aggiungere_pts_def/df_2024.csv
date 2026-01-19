@@ -155,7 +155,7 @@ l987,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 w09g,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 w09g,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 w09g,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-w09g,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+w09g,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 w09g,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 w09g,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 w09g,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -191,14 +191,14 @@ w09g,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 w09g,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 w09g,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 w09g,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-w09g,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+w09g,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 w09g,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-w09g,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+w09g,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 w09g,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 w09g,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 w09g,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 w09g,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-w09g,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+w09g,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 w09g,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 w09g,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 w09g,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -422,7 +422,7 @@ z371,301,0,0,2024,2024-01-08,Auckland,250,New Zealand,Hard,661585,0
 z371,336,0,0,2024,2024-01-01,Hong Kong,250,Hong Kong,Hard,661585,0
 z371,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 z371,747,0,1,2024,2024-09-23,Beijing,500,China,Hard,3720165,1
-z371,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
+z371,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,1
 z371,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
 z371,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
 z371,500,200,1,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
@@ -512,7 +512,7 @@ f724,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 gc88,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 gc88,7485,100,1,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 gc88,329,0,1,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-gc88,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+gc88,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 gc88,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 gc88,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 gc88,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -541,8 +541,8 @@ gc88,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 gc88,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 gc88,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 gc88,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-gc88,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-gc88,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+gc88,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+gc88,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 gc88,717,50,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 gc88,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 gc88,741,25,1,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
@@ -636,7 +636,7 @@ v832,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 v832,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 v832,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 v832,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-v832,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
+v832,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
 v832,339,0,1,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 v832,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 v832,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
@@ -1219,7 +1219,7 @@ bm95,496,0,1,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 bm95,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 bm95,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 bm95,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-bm95,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+bm95,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 bm95,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 bm95,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 bm95,375,0,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -1265,12 +1265,12 @@ mc65,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 mc65,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 mc65,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 mc65,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-mc65,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-mc65,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+mc65,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+mc65,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 mc65,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 mc65,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 mc65,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-mc65,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+mc65,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 mc65,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 mc65,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 mc65,375,0,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -1546,7 +1546,7 @@ z419,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 z419,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 z419,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 z419,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-z419,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+z419,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 z419,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 z419,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 z419,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -1622,8 +1622,8 @@ mp20,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 mp20,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 mp20,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 mp20,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-mp20,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-mp20,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+mp20,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+mp20,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 mp20,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 mp20,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 mp20,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
@@ -1780,7 +1780,7 @@ bk24,496,0,1,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 bk24,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 bk24,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 bk24,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-bk24,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+bk24,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 bk24,360,7,1,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 bk24,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 bk24,375,25,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -1928,8 +1928,8 @@ lb66,7480,0,1,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 lb66,499,25,1,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 lb66,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 lb66,424,0,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-lb66,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-lb66,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+lb66,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+lb66,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 lb66,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 lb66,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 lb66,315,0,1,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
@@ -2005,7 +2005,7 @@ r772,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 r772,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 r772,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 r772,319,0,1,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-r772,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+r772,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 r772,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 r772,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 r772,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -2086,10 +2086,10 @@ v0dz,496,0,1,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 v0dz,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 v0dz,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 v0dz,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-v0dz,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+v0dz,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 v0dz,360,0,1,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 v0dz,316,0,1,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-v0dz,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+v0dz,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 mn13,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 mn13,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 mn13,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -2387,7 +2387,7 @@ rc91,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 rc91,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 rc91,311,13,1,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 rc91,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-rc91,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
+rc91,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
 rc91,496,50,1,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 rc91,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 rc91,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
@@ -2395,7 +2395,7 @@ rc91,315,25,1,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
 rc91,7694,50,1,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 rc91,360,0,1,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 rc91,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-rc91,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+rc91,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 m0qi,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 m0qi,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 m0qi,329,125,1,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -2429,7 +2429,7 @@ m0qi,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 m0qi,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 m0qi,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 m0qi,418,100,1,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
-m0qi,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+m0qi,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 m0qi,717,0,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 m0qi,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 m0qi,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
@@ -2596,10 +2596,10 @@ hb64,496,0,1,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 hb64,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 hb64,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 hb64,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-hb64,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+hb64,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 hb64,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 hb64,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-hb64,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+hb64,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 c0e9,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 c0e9,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 c0e9,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -2676,7 +2676,7 @@ kb95,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 kb95,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 kb95,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 kb95,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-kb95,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
+kb95,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
 kb95,339,25,1,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 kb95,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 kb95,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
@@ -2807,7 +2807,7 @@ g09o,375,0,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 mp01,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 mp01,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 mp01,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-mp01,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+mp01,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 mp01,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 mp01,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 mp01,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -2836,21 +2836,21 @@ mp01,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 mp01,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 mp01,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 mp01,807,25,1,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-mp01,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-mp01,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+mp01,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+mp01,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 mp01,717,50,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 mp01,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 mp01,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 mp01,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 mp01,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-mp01,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+mp01,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 mp01,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 mp01,424,25,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 mp01,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 mp01,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 mp01,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 mp01,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-mp01,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+mp01,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 mp01,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 mp01,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 mp01,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -2885,7 +2885,7 @@ mo44,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 mo44,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 mo44,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 mo44,414,200,1,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
-mo44,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
+mo44,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,1
 mo44,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 mo44,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
 mo44,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
@@ -3062,7 +3062,7 @@ su55,375,25,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 k0az,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 k0az,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 k0az,329,0,1,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-k0az,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+k0az,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 k0az,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 k0az,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 k0az,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -3111,7 +3111,7 @@ k0az,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 k0az,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 k0az,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 gb88,328,113,1,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
-gb88,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
+gb88,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,1
 gb88,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
 gb88,6242,100,1,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
 gb88,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
@@ -3330,7 +3330,7 @@ r09x,336,0,0,2024,2024-01-01,Hong Kong,250,Hong Kong,Hard,661585,0
 r09x,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 r09x,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 r09x,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
-r09x,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
+r09x,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,1
 r09x,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
 r09x,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 r09x,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
@@ -3390,7 +3390,7 @@ d994,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 d994,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 d994,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 d994,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-d994,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
+d994,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
 d994,339,63,1,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 d994,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 d994,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
@@ -3458,12 +3458,12 @@ pd31,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 pd31,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 pd31,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 pd31,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-pd31,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-pd31,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+pd31,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+pd31,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 pd31,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 pd31,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 pd31,315,25,1,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-pd31,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+pd31,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 pd31,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 pd31,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 pd31,375,25,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -3634,8 +3634,8 @@ wb32,407,0,0,2024,2024-02-12,Rotterdam,500,Netherlands,Hard,2134985,0
 wb32,301,0,0,2024,2024-01-08,Auckland,250,New Zealand,Hard,661585,0
 wb32,336,0,0,2024,2024-01-01,Hong Kong,250,Hong Kong,Hard,661585,0
 wb32,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
-wb32,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
-wb32,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
+wb32,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,1
+wb32,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,1
 wb32,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
 wb32,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
 wb32,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
@@ -3745,7 +3745,7 @@ t0a1,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 t0a1,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 t0a1,8996,25,1,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 t0a1,6932,0,1,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-t0a1,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
+t0a1,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
 t0a1,9158,32,1,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 t0a1,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 t0a1,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
@@ -3878,7 +3878,7 @@ n0bs,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 c0bc,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 c0bc,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 c0bc,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-c0bc,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+c0bc,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 c0bc,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 c0bc,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 c0bc,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -3909,14 +3909,14 @@ c0bc,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 c0bc,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 c0bc,418,16,1,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
 c0bc,6116,7,1,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
-c0bc,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+c0bc,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 c0bc,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 c0bc,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 c0bc,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 c0bc,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-c0bc,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+c0bc,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 c0bc,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-c0bc,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+c0bc,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 c0bc,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 c0bc,496,13,1,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 c0bc,9410,0,1,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
@@ -4122,11 +4122,11 @@ c0h0,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 c0h0,311,0,1,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 c0h0,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 c0h0,341,13,1,2024,2024-11-04,Metz,250,France,Hard,579320,1
-c0h0,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+c0h0,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 c0h0,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 c0h0,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 c0h0,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-c0h0,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+c0h0,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 c0h0,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 c0h0,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 c0h0,375,25,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -4275,18 +4275,18 @@ mw02,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 mw02,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 mw02,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 mw02,341,100,1,2024,2024-11-04,Metz,250,France,Hard,579320,1
-mw02,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+mw02,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 mw02,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 mw02,4713,0,1,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 mw02,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-mw02,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+mw02,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 mw02,360,0,1,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 mw02,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-mw02,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+mw02,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 n0ae,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 n0ae,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 n0ae,329,50,1,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-n0ae,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+n0ae,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 n0ae,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 n0ae,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 n0ae,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -4322,9 +4322,9 @@ n0ae,429,0,1,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 n0ae,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 n0ae,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 n0ae,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-n0ae,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+n0ae,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 n0ae,311,50,1,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-n0ae,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+n0ae,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 n0ae,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 n0ae,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 n0ae,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
@@ -4613,7 +4613,7 @@ u182,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 u182,8996,0,1,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 u182,6932,0,1,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 u182,506,38,1,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
-u182,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
+u182,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 u182,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 u182,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 u182,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
@@ -4674,7 +4674,7 @@ s0k7,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 s0k7,807,13,1,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 s0k7,418,8,1,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
 s0k7,6116,13,1,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
-s0k7,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+s0k7,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 s0k7,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 s0k7,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 s0k7,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
@@ -4784,17 +4784,17 @@ a0gc,7480,0,1,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 a0gc,499,7,1,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 a0gc,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 a0gc,424,7,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-a0gc,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-a0gc,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+a0gc,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+a0gc,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 a0gc,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 a0gc,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 a0gc,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-a0gc,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+a0gc,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 a0gc,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 a0gc,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-a0gc,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+a0gc,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 da86,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
-da86,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
+da86,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,1
 da86,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
 da86,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
 da86,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
@@ -4860,7 +4860,7 @@ m0jz,336,0,0,2024,2024-01-01,Hong Kong,250,Hong Kong,Hard,661585,0
 m0jz,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 m0jz,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 m0jz,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
-m0jz,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
+m0jz,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,1
 m0jz,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
 m0jz,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 m0jz,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
@@ -4871,7 +4871,7 @@ m0jz,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 m0jz,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 m0jz,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 m0jz,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
-m0jz,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
+m0jz,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,1
 m0jz,439,13,1,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 m0jz,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 m0jz,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
@@ -4898,7 +4898,7 @@ m0jz,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 n0am,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 n0am,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 n0am,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-n0am,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+n0am,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 n0am,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 n0am,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 n0am,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -4927,9 +4927,9 @@ n0am,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 n0am,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 n0am,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 n0am,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-n0am,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
+n0am,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
 n0am,6116,0,1,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
-n0am,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+n0am,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 n0am,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 n0am,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 n0am,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
@@ -4999,7 +4999,7 @@ mw75,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 mw75,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 sy67,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 sy67,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
-sy67,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
+sy67,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,1
 sy67,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
 sy67,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 sy67,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
@@ -5073,8 +5073,8 @@ pg94,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 pg94,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 pg94,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 pg94,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-pg94,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
-pg94,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
+pg94,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
+pg94,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 pg94,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 pg94,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 pg94,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
@@ -5153,7 +5153,7 @@ hg94,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 mw18,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 mw18,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 mw18,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-mw18,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+mw18,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 mw18,314,7,1,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 mw18,440,0,1,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 mw18,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -5182,9 +5182,9 @@ mw18,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 mw18,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 mw18,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 mw18,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-mw18,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-mw18,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
-mw18,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+mw18,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+mw18,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
+mw18,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 mw18,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 mw18,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 mw18,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
@@ -5196,7 +5196,7 @@ mw18,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 mw18,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 mw18,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 mw18,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-mw18,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+mw18,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 mw18,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 mw18,360,63,1,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 mw18,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -5473,7 +5473,7 @@ l0cx,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 l0cx,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 l0cx,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 l0cx,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-l0cx,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+l0cx,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 l0cx,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 l0cx,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 l0cx,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -5549,12 +5549,12 @@ e768,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 e768,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 e768,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 e768,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-e768,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-e768,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+e768,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+e768,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 e768,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 e768,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 e768,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-e768,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+e768,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 e768,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 e768,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 e768,375,13,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -5656,7 +5656,7 @@ d0dw,496,0,1,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 d0dw,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 d0dw,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 d0dw,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-d0dw,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+d0dw,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 d0dw,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 d0dw,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 d0dw,375,7,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -5714,7 +5714,7 @@ bo10,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 kb09,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 kb09,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 kb09,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-kb09,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+kb09,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 kb09,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 kb09,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 kb09,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -5743,21 +5743,21 @@ kb09,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 kb09,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 kb09,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 kb09,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-kb09,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-kb09,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+kb09,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+kb09,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 kb09,717,0,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 kb09,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 kb09,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 kb09,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 kb09,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-kb09,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+kb09,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 kb09,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 kb09,424,32,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 kb09,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 kb09,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 kb09,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 kb09,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-kb09,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+kb09,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 kb09,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 kb09,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 kb09,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -5829,7 +5829,7 @@ db59,336,0,0,2024,2024-01-01,Hong Kong,250,Hong Kong,Hard,661585,0
 db59,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 db59,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 db59,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
-db59,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
+db59,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,1
 db59,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
 db59,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 db59,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
@@ -5840,7 +5840,7 @@ db59,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 db59,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 db59,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 db59,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
-db59,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
+db59,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,1
 db59,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 db59,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 db59,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
@@ -6134,7 +6134,7 @@ y09v,301,0,0,2024,2024-01-08,Auckland,250,New Zealand,Hard,661585,0
 y09v,336,0,0,2024,2024-01-01,Hong Kong,250,Hong Kong,Hard,661585,0
 y09v,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 y09v,747,200,1,2024,2024-09-23,Beijing,500,China,Hard,3720165,1
-y09v,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
+y09v,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,1
 y09v,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
 y09v,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
 y09v,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
@@ -6193,7 +6193,7 @@ o660,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 o660,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 o660,8996,0,1,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 o660,6932,13,1,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-o660,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
+o660,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
 o660,9158,0,1,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 o660,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 o660,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
@@ -6314,12 +6314,12 @@ gf95,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 gf95,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 gf95,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 gf95,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-gf95,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
+gf95,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
 gf95,496,13,1,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 gf95,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 gf95,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 gf95,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-gf95,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+gf95,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 gf95,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 gf95,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 gf95,375,0,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -6349,7 +6349,7 @@ w09e,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 w09e,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 w09e,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 w09e,8998,13,1,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
-w09e,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
+w09e,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 w09e,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 w09e,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 w09e,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
@@ -6725,7 +6725,7 @@ s0re,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 s0re,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 s0re,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 s0re,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
-s0re,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
+s0re,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,1
 s0re,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
 s0re,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 s0re,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
@@ -6834,7 +6834,7 @@ bv24,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 bv24,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 bv24,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 cg33,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
-cg33,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
+cg33,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,1
 cg33,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
 cg33,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
 cg33,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
@@ -6901,7 +6901,7 @@ r0fp,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 r0fp,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 r0fp,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 r0fp,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-r0fp,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+r0fp,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 r0fp,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 r0fp,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 r0fp,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -7028,12 +7028,12 @@ hb48,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 hb48,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 hb48,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 hb48,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-hb48,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
+hb48,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
 hb48,496,0,1,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 hb48,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 hb48,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 hb48,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-hb48,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+hb48,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 hb48,360,0,1,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 hb48,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 hb48,375,7,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -7091,7 +7091,7 @@ y171,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 k0a3,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 k0a3,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 k0a3,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-k0a3,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+k0a3,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 k0a3,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 k0a3,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 k0a3,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -7120,8 +7120,8 @@ k0a3,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 k0a3,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 k0a3,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 k0a3,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-k0a3,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-k0a3,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+k0a3,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+k0a3,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 k0a3,717,13,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 k0a3,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 k0a3,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
@@ -7129,12 +7129,12 @@ k0a3,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 k0a3,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 k0a3,499,50,1,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 k0a3,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-k0a3,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+k0a3,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 k0a3,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 k0a3,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 k0a3,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 k0a3,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-k0a3,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+k0a3,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 k0a3,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 k0a3,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 k0a3,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -7793,15 +7793,15 @@ m0gz,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 m0gz,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 m0gz,311,75,1,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 m0gz,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-m0gz,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-m0gz,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+m0gz,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+m0gz,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 m0gz,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 m0gz,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 m0gz,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
 m0gz,7694,250,1,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 m0gz,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 m0gz,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-m0gz,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+m0gz,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 l0gh,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 l0gh,7485,7,1,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 l0gh,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -7978,7 +7978,7 @@ rh59,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 rh59,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 rh59,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 rh59,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-rh59,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
+rh59,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
 rh59,9158,0,1,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 rh59,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 rh59,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
@@ -8048,18 +8048,18 @@ cg94,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 cg94,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 cg94,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 cg94,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-cg94,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-cg94,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+cg94,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+cg94,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 cg94,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 cg94,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 cg94,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-cg94,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+cg94,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 cg94,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 cg94,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-cg94,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+cg94,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 s0aq,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 s0aq,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
-s0aq,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
+s0aq,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,1
 s0aq,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
 s0aq,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 s0aq,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
@@ -8176,7 +8176,7 @@ rb60,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 rb60,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 rb60,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 rb60,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-rb60,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+rb60,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 rb60,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 rb60,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 rb60,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -8252,15 +8252,15 @@ j0az,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 j0az,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 j0az,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 j0az,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-j0az,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-j0az,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+j0az,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+j0az,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 j0az,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 j0az,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 j0az,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-j0az,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+j0az,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 j0az,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 j0az,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-j0az,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+j0az,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 c0ak,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 c0ak,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 c0ak,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -8508,11 +8508,11 @@ bv16,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 bv16,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 bv16,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 bv16,341,0,1,2024,2024-11-04,Metz,250,France,Hard,579320,1
-bv16,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+bv16,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 bv16,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 bv16,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 bv16,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-bv16,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+bv16,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 bv16,360,0,1,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 bv16,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 bv16,375,13,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -8796,7 +8796,7 @@ tc01,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 tc01,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 tc01,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 tc01,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-tc01,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
+tc01,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
 tc01,339,13,1,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 tc01,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 tc01,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
@@ -8864,15 +8864,15 @@ mk26,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 mk26,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 mk26,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 mk26,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-mk26,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-mk26,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+mk26,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+mk26,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 mk26,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 mk26,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 mk26,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-mk26,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+mk26,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 mk26,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 mk26,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-mk26,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+mk26,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 kc04,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 kc04,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 kc04,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -8947,8 +8947,8 @@ ta29,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 ta29,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 ta29,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 ta29,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-ta29,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
-ta29,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
+ta29,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
+ta29,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 ta29,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 ta29,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 ta29,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
@@ -8998,7 +8998,7 @@ cc66,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 cc66,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 cc66,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 cc66,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-cc66,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
+cc66,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
 cc66,9158,7,1,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 cc66,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 cc66,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
@@ -9027,7 +9027,7 @@ cc66,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 cc66,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 cc66,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 o0a2,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
-o0a2,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
+o0a2,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,1
 o0a2,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
 o0a2,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
 o0a2,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
@@ -9170,15 +9170,15 @@ bu54,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 bu54,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 bu54,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 bu54,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-bu54,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-bu54,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+bu54,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+bu54,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 bu54,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 bu54,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 bu54,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-bu54,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+bu54,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 bu54,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 bu54,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-bu54,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+bu54,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 df88,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 df88,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 df88,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -9272,15 +9272,15 @@ t09x,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 t09x,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 t09x,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 t09x,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-t09x,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-t09x,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+t09x,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+t09x,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 t09x,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 t09x,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 t09x,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-t09x,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+t09x,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 t09x,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 t09x,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-t09x,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+t09x,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 n0cs,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 n0cs,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 n0cs,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -9308,7 +9308,7 @@ n0cs,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 n0cs,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 n0cs,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 n0cs,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
-n0cs,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
+n0cs,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,1
 n0cs,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 n0cs,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 n0cs,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
@@ -9382,7 +9382,7 @@ h996,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
 h996,7694,0,1,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 h996,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 h996,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-h996,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+h996,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 be90,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 be90,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 be90,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -9476,15 +9476,15 @@ lc12,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 lc12,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 lc12,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 lc12,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-lc12,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-lc12,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+lc12,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+lc12,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 lc12,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 lc12,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 lc12,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-lc12,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+lc12,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 lc12,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 lc12,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-lc12,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+lc12,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 li03,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 li03,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 li03,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -9539,7 +9539,7 @@ li03,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 j386,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 j386,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 j386,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-j386,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+j386,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 j386,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 j386,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 j386,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -9568,21 +9568,21 @@ j386,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 j386,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 j386,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 j386,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-j386,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-j386,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
-j386,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+j386,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+j386,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
+j386,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 j386,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 j386,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 j386,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 j386,7480,0,1,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-j386,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+j386,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 j386,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 j386,424,13,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 j386,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 j386,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 j386,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 j386,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-j386,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+j386,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 j386,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 j386,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 j386,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -9610,7 +9610,7 @@ bf23,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 bf23,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 bf23,8996,7,1,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 bf23,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-bf23,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
+bf23,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
 bf23,9158,178,1,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 bf23,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 bf23,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
@@ -9655,7 +9655,7 @@ m0ht,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 m0ht,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 m0ht,7581,0,1,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 m0ht,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-m0ht,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+m0ht,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 m0ht,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 m0ht,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 m0ht,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -9668,7 +9668,7 @@ m0ht,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 m0ht,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 m0ht,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 m0ht,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
-m0ht,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
+m0ht,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,1
 m0ht,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 m0ht,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
 m0ht,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
@@ -9916,8 +9916,8 @@ a887,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 a887,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 a887,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 a887,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-a887,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
-a887,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
+a887,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
+a887,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 a887,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 a887,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 a887,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
@@ -10037,15 +10037,15 @@ pj74,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 pj74,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 pj74,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 pj74,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-pj74,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-pj74,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+pj74,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+pj74,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 pj74,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 pj74,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 pj74,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-pj74,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+pj74,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 pj74,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 pj74,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-pj74,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+pj74,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 d864,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 d864,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 d864,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -10222,8 +10222,8 @@ fa43,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 fa43,322,7,1,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 fa43,8996,0,1,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 fa43,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-fa43,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
-fa43,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
+fa43,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
+fa43,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 fa43,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 fa43,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 fa43,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
@@ -10326,7 +10326,7 @@ s0ia,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 s0ia,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 s0ia,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 s0ia,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-s0ia,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
+s0ia,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
 s0ia,339,0,1,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 s0ia,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 s0ia,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
@@ -10355,7 +10355,7 @@ s0ia,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 d0dt,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 d0dt,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 d0dt,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-d0dt,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+d0dt,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 d0dt,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 d0dt,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 d0dt,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -10384,21 +10384,21 @@ d0dt,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 d0dt,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 d0dt,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 d0dt,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-d0dt,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-d0dt,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+d0dt,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+d0dt,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 d0dt,717,0,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 d0dt,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 d0dt,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 d0dt,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 d0dt,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-d0dt,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+d0dt,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 d0dt,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-d0dt,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+d0dt,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 d0dt,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 d0dt,496,7,1,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 d0dt,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 d0dt,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-d0dt,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+d0dt,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 d0dt,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 d0dt,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 d0dt,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -10445,19 +10445,19 @@ j620,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 j620,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 j620,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 j620,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-j620,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-j620,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+j620,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+j620,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 j620,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 j620,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 j620,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-j620,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+j620,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 j620,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 j620,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-j620,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+j620,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 sl08,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 sl08,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 sl08,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-sl08,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+sl08,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 sl08,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 sl08,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 sl08,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -10486,21 +10486,21 @@ sl08,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 sl08,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 sl08,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 sl08,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-sl08,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-sl08,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
-sl08,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+sl08,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+sl08,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
+sl08,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 sl08,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 sl08,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 sl08,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 sl08,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-sl08,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+sl08,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 sl08,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 sl08,424,13,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 sl08,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 sl08,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 sl08,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 sl08,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-sl08,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+sl08,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 sl08,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 sl08,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 sl08,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -10530,8 +10530,8 @@ s0n0,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 s0n0,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 s0n0,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 s0n0,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-s0n0,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
-s0n0,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
+s0n0,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
+s0n0,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 s0n0,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 s0n0,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 s0n0,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
@@ -10661,7 +10661,7 @@ s0ak,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 h09p,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 h09p,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 h09p,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-h09p,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+h09p,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 h09p,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 h09p,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 h09p,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -10690,8 +10690,8 @@ h09p,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 h09p,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 h09p,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 h09p,807,0,1,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-h09p,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-h09p,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+h09p,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+h09p,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 h09p,717,7,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 h09p,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 h09p,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
@@ -10704,7 +10704,7 @@ h09p,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 h09p,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 h09p,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 h09p,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-h09p,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+h09p,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 h09p,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 h09p,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 h09p,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -10854,11 +10854,11 @@ mw76,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 mw76,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 mw76,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 mw76,341,0,1,2024,2024-11-04,Metz,250,France,Hard,579320,1
-mw76,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+mw76,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 mw76,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 mw76,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 mw76,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-mw76,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+mw76,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 mw76,360,0,1,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 mw76,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 mw76,375,0,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -10916,7 +10916,7 @@ i0a7,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 b0ej,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 b0ej,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 b0ej,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-b0ej,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+b0ej,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 b0ej,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 b0ej,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 b0ej,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -10946,20 +10946,20 @@ b0ej,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 b0ej,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 b0ej,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 b0ej,418,0,1,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
-b0ej,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+b0ej,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 b0ej,717,0,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 b0ej,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 b0ej,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 b0ej,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 b0ej,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-b0ej,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+b0ej,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 b0ej,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-b0ej,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+b0ej,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 b0ej,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 b0ej,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 b0ej,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 b0ej,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-b0ej,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+b0ej,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 b0ej,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 b0ej,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 b0ej,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -11363,15 +11363,15 @@ r0eb,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 r0eb,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 r0eb,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 r0eb,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-r0eb,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-r0eb,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+r0eb,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+r0eb,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 r0eb,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 r0eb,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 r0eb,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-r0eb,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+r0eb,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 r0eb,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 r0eb,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-r0eb,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+r0eb,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 s0ti,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 s0ti,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 s0ti,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -11397,7 +11397,7 @@ s0ti,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 s0ti,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 s0ti,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 s0ti,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-s0ti,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
+s0ti,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
 s0ti,339,0,1,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 s0ti,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 s0ti,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
@@ -11465,15 +11465,15 @@ bk19,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 bk19,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 bk19,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 bk19,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-bk19,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-bk19,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+bk19,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+bk19,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 bk19,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 bk19,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 bk19,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-bk19,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+bk19,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 bk19,360,0,1,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 bk19,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-bk19,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+bk19,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 va25,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 va25,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 va25,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -11548,7 +11548,7 @@ o376,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 o376,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 o376,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 o376,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-o376,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
+o376,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
 o376,9158,7,1,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 o376,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 o376,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
@@ -11630,7 +11630,7 @@ ea13,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 kc12,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 kc12,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 kc12,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-kc12,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+kc12,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 kc12,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 kc12,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 kc12,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -11660,13 +11660,13 @@ kc12,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 kc12,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 kc12,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 kc12,418,41,1,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
-kc12,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+kc12,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 kc12,717,7,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 kc12,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 kc12,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 kc12,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 kc12,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-kc12,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+kc12,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 kc12,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 kc12,424,0,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 kc12,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
@@ -11958,8 +11958,8 @@ ta46,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 ta46,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 ta46,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 ta46,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-ta46,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
-ta46,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
+ta46,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
+ta46,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 ta46,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 ta46,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 ta46,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
@@ -12000,7 +12000,7 @@ n663,336,0,0,2024,2024-01-01,Hong Kong,250,Hong Kong,Hard,661585,0
 n663,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 n663,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 n663,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
-n663,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
+n663,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,1
 n663,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
 n663,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 n663,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
@@ -12011,7 +12011,7 @@ n663,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 n663,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 n663,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 n663,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
-n663,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
+n663,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,1
 n663,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 n663,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 n663,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
@@ -12052,7 +12052,7 @@ s0gz,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 s0gz,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 s0gz,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 s0gz,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-s0gz,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+s0gz,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 s0gz,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 s0gz,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 s0gz,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -12140,7 +12140,7 @@ v708,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 m0nb,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 m0nb,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 m0nb,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-m0nb,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+m0nb,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 m0nb,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 m0nb,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 m0nb,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -12169,14 +12169,14 @@ m0nb,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 m0nb,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 m0nb,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 m0nb,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-m0nb,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-m0nb,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
-m0nb,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+m0nb,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+m0nb,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
+m0nb,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 m0nb,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 m0nb,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 m0nb,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 m0nb,7480,7,1,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-m0nb,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+m0nb,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 m0nb,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 m0nb,424,0,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 m0nb,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
@@ -12689,12 +12689,12 @@ pf39,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 pf39,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 pf39,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 pf39,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-pf39,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
+pf39,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
 pf39,496,7,1,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 pf39,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 pf39,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 pf39,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-pf39,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+pf39,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 pf39,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 pf39,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 pf39,375,0,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -12740,15 +12740,15 @@ lc11,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 lc11,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 lc11,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 lc11,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-lc11,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-lc11,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+lc11,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+lc11,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 lc11,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 lc11,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 lc11,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
 lc11,7694,0,1,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 lc11,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 lc11,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-lc11,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+lc11,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 gh33,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 gh33,7485,7,1,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 gh33,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -12792,14 +12792,14 @@ gh33,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 gh33,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 gh33,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 gh33,341,7,1,2024,2024-11-04,Metz,250,France,Hard,579320,1
-gh33,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+gh33,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 gh33,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 gh33,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 gh33,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-gh33,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+gh33,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 gh33,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 gh33,316,7,1,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-gh33,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+gh33,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 e698,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 e698,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 e698,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -12877,7 +12877,7 @@ bi81,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 bi81,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 bi81,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 bi81,8998,38,1,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
-bi81,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
+bi81,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 bi81,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 bi81,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 bi81,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
@@ -13080,7 +13080,7 @@ j553,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 j553,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 j553,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 j553,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-j553,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
+j553,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
 j553,339,0,1,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 j553,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 j553,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
@@ -13139,13 +13139,13 @@ kd35,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 kd35,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 kd35,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 kd35,418,0,1,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
-kd35,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
-kd35,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+kd35,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
+kd35,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 kd35,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 kd35,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 kd35,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 kd35,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-kd35,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+kd35,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 kd35,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 kd35,424,0,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 kd35,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
@@ -13250,19 +13250,19 @@ a09t,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 a09t,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 a09t,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 a09t,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-a09t,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-a09t,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+a09t,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+a09t,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 a09t,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 a09t,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 a09t,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-a09t,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+a09t,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 a09t,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 a09t,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-a09t,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+a09t,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 q02l,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 q02l,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 q02l,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-q02l,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+q02l,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 q02l,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 q02l,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 q02l,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -13291,7 +13291,7 @@ q02l,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 q02l,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 q02l,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 q02l,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-q02l,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
+q02l,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
 q02l,6116,0,1,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 q02l,717,0,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 q02l,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
@@ -13336,7 +13336,7 @@ sm09,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 sm09,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 sm09,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 sm09,8998,0,1,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
-sm09,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
+sm09,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 sm09,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 sm09,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 sm09,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
@@ -13488,7 +13488,7 @@ ph71,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 ph71,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 ph71,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 ph71,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-ph71,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
+ph71,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
 ph71,339,0,1,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 ph71,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 ph71,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
@@ -13517,7 +13517,7 @@ ph71,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 mk66,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 mk66,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 mk66,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-mk66,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+mk66,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 mk66,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 mk66,440,25,1,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 mk66,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -13548,14 +13548,14 @@ mk66,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 mk66,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 mk66,418,0,1,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
 mk66,6116,25,1,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
-mk66,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+mk66,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 mk66,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 mk66,741,0,1,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 mk66,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 mk66,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-mk66,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+mk66,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 mk66,311,13,1,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-mk66,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+mk66,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 mk66,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 mk66,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 mk66,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
@@ -13684,7 +13684,7 @@ bv25,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 bv25,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 bv25,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 bv25,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-bv25,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+bv25,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 bv25,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 bv25,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 bv25,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -13697,7 +13697,7 @@ bv25,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 bv25,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 bv25,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 bv25,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
-bv25,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
+bv25,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,1
 bv25,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 bv25,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
 bv25,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
@@ -13813,7 +13813,7 @@ pg20,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,22556
 pg20,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 pg20,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 pg20,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
-pg20,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
+pg20,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,1
 pg20,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 pg20,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
 pg20,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
@@ -14015,12 +14015,12 @@ c0bh,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 c0bh,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 c0bh,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 c0bh,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-c0bh,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-c0bh,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+c0bh,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+c0bh,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 c0bh,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 c0bh,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 c0bh,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-c0bh,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+c0bh,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 c0bh,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 c0bh,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 c0bh,375,0,1,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
@@ -14250,7 +14250,7 @@ sl94,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 sl94,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 sl94,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 sl94,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
-sl94,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
+sl94,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,1
 sl94,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 sl94,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 sl94,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
@@ -14916,7 +14916,7 @@ p09z,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 p09z,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
 p09z,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 p09z,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
-p09z,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
+p09z,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,1
 p09z,339,25,1,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,1
 p09z,337,0,1,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 p09z,439,0,1,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
@@ -15061,7 +15061,7 @@ n409,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 n409,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 n409,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 n409,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-n409,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+n409,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 n409,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 n409,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 n409,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -15326,7 +15326,7 @@ o513,506,0,1,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 o513,9158,0,1,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 o513,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 o513,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
-o513,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
+o513,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,1
 o513,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 o513,414,0,1,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 o513,425,25,1,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
@@ -15352,7 +15352,7 @@ o513,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 o513,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 t0bw,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 t0bw,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
-t0bw,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
+t0bw,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,1
 t0bw,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
 t0bw,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 t0bw,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
@@ -15526,7 +15526,7 @@ gj16,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 gj16,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 gj16,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 gj16,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-gj16,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
+gj16,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
 gj16,9158,13,1,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 gj16,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 gj16,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
@@ -15679,8 +15679,8 @@ mj98,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 mj98,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 mj98,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 mj98,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-mj98,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
-mj98,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
+mj98,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
+mj98,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 mj98,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 mj98,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 mj98,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
@@ -15724,7 +15724,7 @@ te16,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 te16,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 te16,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 te16,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-te16,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+te16,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 te16,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 te16,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 te16,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -15737,7 +15737,7 @@ te16,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 te16,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 te16,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 te16,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
-te16,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
+te16,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,1
 te16,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 te16,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
 te16,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
@@ -15772,7 +15772,7 @@ be69,407,0,0,2024,2024-02-12,Rotterdam,500,Netherlands,Hard,2134985,0
 be69,301,0,0,2024,2024-01-08,Auckland,250,New Zealand,Hard,661585,0
 be69,336,0,0,2024,2024-01-01,Hong Kong,250,Hong Kong,Hard,661585,0
 be69,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
-be69,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
+be69,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,1
 be69,7581,7,1,2024,2024-09-16,Chengdu,250,China,Hard,1171655,1
 be69,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
 be69,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
@@ -15803,7 +15803,7 @@ be69,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 be69,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 be69,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 be69,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
-be69,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
+be69,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,1
 be69,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
 be69,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 be69,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
@@ -15903,14 +15903,14 @@ b0jj,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 b0jj,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 b0jj,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 b0jj,341,0,1,2024,2024-11-04,Metz,250,France,Hard,579320,1
-b0jj,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+b0jj,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 b0jj,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 b0jj,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 b0jj,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-b0jj,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+b0jj,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 b0jj,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 b0jj,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-b0jj,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+b0jj,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 e865,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 e865,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 e865,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -15943,14 +15943,14 @@ e865,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 e865,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 e865,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 e865,807,0,1,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-e865,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-e865,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
+e865,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+e865,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
 e865,717,0,1,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 e865,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 e865,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 e865,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 e865,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-e865,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+e865,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 e865,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 e865,424,25,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 e865,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
@@ -16045,21 +16045,21 @@ t0ha,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 t0ha,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 t0ha,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 t0ha,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-t0ha,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-t0ha,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
-t0ha,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+t0ha,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+t0ha,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
+t0ha,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 t0ha,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 t0ha,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 t0ha,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 t0ha,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-t0ha,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+t0ha,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 t0ha,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-t0ha,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+t0ha,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 t0ha,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 t0ha,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 t0ha,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 t0ha,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-t0ha,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+t0ha,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 t0ha,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 t0ha,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 t0ha,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -16132,7 +16132,7 @@ l0il,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 l0il,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 l0il,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 l0il,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-l0il,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+l0il,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 l0il,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 l0il,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 l0il,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -16259,15 +16259,15 @@ d0hd,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 d0hd,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 d0hd,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 d0hd,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-d0hd,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-d0hd,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+d0hd,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+d0hd,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 d0hd,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 d0hd,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 d0hd,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-d0hd,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+d0hd,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 d0hd,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 d0hd,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-d0hd,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+d0hd,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 a0ba,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 a0ba,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 a0ba,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -16373,7 +16373,7 @@ d0l3,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 b0nn,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 b0nn,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 b0nn,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-b0nn,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+b0nn,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 b0nn,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 b0nn,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 b0nn,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -16402,21 +16402,21 @@ b0nn,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 b0nn,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 b0nn,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 b0nn,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
-b0nn,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
-b0nn,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
-b0nn,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+b0nn,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
+b0nn,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
+b0nn,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 b0nn,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 b0nn,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 b0nn,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 b0nn,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-b0nn,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+b0nn,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 b0nn,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-b0nn,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+b0nn,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 b0nn,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 b0nn,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 b0nn,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 b0nn,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
-b0nn,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
+b0nn,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,1
 b0nn,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 b0nn,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 b0nn,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
@@ -16540,7 +16540,7 @@ dh50,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 dh50,747,50,1,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 dh50,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 dh50,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-dh50,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+dh50,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 dh50,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 dh50,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 dh50,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -16757,7 +16757,7 @@ cd85,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 cd85,337,0,1,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 cd85,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 cd85,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
-cd85,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
+cd85,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,1
 cd85,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 cd85,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
 cd85,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
@@ -16801,8 +16801,8 @@ t0dm,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 t0dm,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 t0dm,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
 t0dm,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
-t0dm,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
-t0dm,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
+t0dm,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,1
+t0dm,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,1
 t0dm,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
 t0dm,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 t0dm,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
@@ -16882,7 +16882,7 @@ n771,316,25,1,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
 n771,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 n09u,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 n09u,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
-n09u,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
+n09u,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,1
 n09u,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
 n09u,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 n09u,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
@@ -17138,7 +17138,7 @@ s0mn,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
 s0ja,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 s0ja,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 s0ja,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
-s0ja,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,0
+s0ja,6242,0,0,2024,2024-08-19,Winston-Salem,250,"NC, U.S.A.",Hard,779780,1
 s0ja,314,0,0,2024,2024-07-15,Gstaad,250,Switzerland,Clay,579320,0
 s0ja,440,0,0,2024,2024-06-10,'s-Hertogenbosch,250,Netherlands,Grass,690135,0
 s0ja,308,0,0,2024,2024-04-15,Munich,250,Germany,Clay,579320,0
@@ -17168,15 +17168,15 @@ s0ja,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
 s0ja,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 s0ja,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 s0ja,418,0,1,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
-s0ja,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
-s0ja,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+s0ja,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
+s0ja,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 s0ja,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 s0ja,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 s0ja,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 s0ja,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-s0ja,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+s0ja,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 s0ja,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-s0ja,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+s0ja,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 s0ja,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 s0ja,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 s0ja,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
@@ -17305,7 +17305,7 @@ m0ea,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 m0ea,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 m0ea,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 m0ea,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-m0ea,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+m0ea,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 m0ea,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 m0ea,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 m0ea,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -17361,7 +17361,7 @@ sm88,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 sm88,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 sm88,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
 sm88,8996,0,0,2024,2024-02-26,Santiago,250,Chile,Clay,661585,0
-sm88,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,0
+sm88,6932,0,0,2024,2024-02-19,Rio de Janeiro,500,Brazil,Clay,2100230,1
 sm88,506,0,0,2024,2024-02-12,Buenos Aires,250,Argentina,Clay,642615,0
 sm88,9158,0,0,2024,2024-02-05,Cordoba,250,Argentina,Clay,562345,0
 sm88,8998,0,0,2024,2024-01-08,Adelaide,250,Australia,Hard,661585,0
@@ -17433,14 +17433,14 @@ me82,499,0,1,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 me82,311,0,1,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 me82,424,100,1,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 me82,341,0,1,2024,2024-11-04,Metz,250,France,Hard,579320,1
-me82,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+me82,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 me82,9410,25,1,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 me82,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 me82,315,0,1,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
 me82,7694,0,1,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 me82,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 me82,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-me82,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+me82,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 b0mm,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 b0mm,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 b0mm,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -17679,14 +17679,14 @@ o522,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
 o522,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 o522,418,25,1,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,1
 o522,6116,25,1,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,1
-o522,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,0
+o522,717,0,0,2024,2024-04-01,Houston,250,"TX, U.S.A.",Clay,661585,1
 o522,429,0,0,2024,2024-10-14,Stockholm,250,Sweden,Hard,690135,0
 o522,741,0,0,2024,2024-06-24,Eastbourne,250,Great Britain,Grass,740160,0
 o522,4462,0,0,2024,2024-04-15,Bucharest,250,Romania,Clay,579320,0
 o522,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
-o522,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
+o522,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,1
 o522,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
-o522,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
+o522,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,1
 o522,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 o522,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 o522,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
@@ -17914,7 +17914,7 @@ sx90,407,0,0,2024,2024-02-12,Rotterdam,500,Netherlands,Hard,2134985,0
 sx90,301,0,0,2024,2024-01-08,Auckland,250,New Zealand,Hard,661585,0
 sx90,336,0,0,2024,2024-01-01,Hong Kong,250,Hong Kong,Hard,661585,0
 sx90,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
-sx90,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
+sx90,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,1
 sx90,7581,0,1,2024,2024-09-16,Chengdu,250,China,Hard,1171655,1
 sx90,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
 sx90,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
@@ -17945,7 +17945,7 @@ sx90,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
 sx90,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
 sx90,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
 sx90,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
-sx90,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
+sx90,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,1
 sx90,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
 sx90,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
 sx90,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
@@ -17993,15 +17993,15 @@ df92,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 df92,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 df92,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 df92,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-df92,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-df92,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+df92,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+df92,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 df92,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 df92,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 df92,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-df92,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+df92,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 df92,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 df92,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-df92,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+df92,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 r0ed,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 r0ed,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 r0ed,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -18146,15 +18146,15 @@ e0ac,7480,0,0,2024,2024-02-19,Los Cabos,250,Mexico,Hard,915245,0
 e0ac,499,0,0,2024,2024-02-12,Delray Beach,250,"FL, U.S.A.",Hard,661585,0
 e0ac,311,0,0,2024,2024-06-17,London / Queen's Club,500,Great Britain,Grass,2255655,0
 e0ac,424,0,0,2024,2024-02-05,Dallas,250,"TX, U.S.A.",Hard,756020,0
-e0ac,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,0
-e0ac,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,0
+e0ac,341,0,0,2024,2024-11-04,Metz,250,France,Hard,579320,1
+e0ac,496,0,0,2024,2024-02-05,Marseille,250,France,Hard,724015,1
 e0ac,9410,0,0,2024,2024-10-14,Almaty,250,Kazakhstan,Hard,1036700,0
 e0ac,4713,0,0,2024,2024-09-16,Hangzhou,250,China,Hard,1000630,0
 e0ac,315,0,0,2024,2024-07-15,Newport,250,"RI, U.S.A.",Grass,661585,0
-e0ac,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,0
+e0ac,7694,0,0,2024,2024-05-20,Lyon,250,France,Clay,579320,1
 e0ac,360,0,0,2024,2024-04-01,Marrakech,250,Morocco,Clay,579320,0
 e0ac,316,0,0,2024,2024-07-15,Bastad,250,Sweden,Clay,579320,0
-e0ac,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,0
+e0ac,375,0,0,2024,2024-01-29,Montpellier,250,France,Hard,579320,1
 z0ab,328,0,0,2024,2024-10-21,Basel,500,Switzerland,Hard,2385100,0
 z0ab,7485,0,0,2024,2024-10-14,Antwerp,250,Belgium,Hard,690135,0
 z0ab,329,0,0,2024,2024-09-23,Tokyo,500,Japan,Hard,1818380,0
@@ -18223,7 +18223,7 @@ m0n7,4787,0,0,2024,2024-11-04,Belgrade,250,Serbia,Hard,750000,0
 m0n7,747,0,0,2024,2024-09-23,Beijing,500,China,Hard,3720165,0
 m0n7,7581,0,0,2024,2024-09-16,Chengdu,250,China,Hard,1171655,0
 m0n7,319,0,0,2024,2024-07-22,Kitzbuhel,250,Austria,Clay,579320,0
-m0n7,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,0
+m0n7,8994,0,0,2024,2024-06-24,Mallorca,250,Spain,Grass,932135,1
 m0n7,500,0,0,2024,2024-06-17,Halle,500,Germany,Grass,2255655,0
 m0n7,321,0,0,2024,2024-06-10,Stuttgart,250,Germany,Grass,734915,0
 m0n7,322,0,0,2024,2024-05-20,Geneva,250,Switzerland,Clay,579320,0
@@ -18236,7 +18236,7 @@ m0n7,339,0,0,2024,2024-01-01,Brisbane,250,Australia,Hard,661585,0
 m0n7,337,0,0,2024,2024-10-21,Vienna,500,Austria,Hard,2470310,0
 m0n7,439,0,0,2024,2024-07-22,Umag,250,Croatia,Clay,579320,0
 m0n7,414,0,0,2024,2024-07-15,Hamburg,500,Germany,Clay,1891995,0
-m0n7,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,0
+m0n7,425,0,0,2024,2024-04-15,Barcelona,500,Spain,Clay,2782960,1
 m0n7,807,0,0,2024,2024-02-26,Acapulco,500,Mexico,Hard,2206080,0
 m0n7,418,0,0,2024,2024-07-29,Washington,500,"DC, U.S.A.",Hard,2100230,0
 m0n7,6116,0,0,2024,2024-07-22,Atlanta,250,"GA, U.S.A.",Hard,756020,0
